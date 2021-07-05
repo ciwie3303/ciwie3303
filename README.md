@@ -1,8 +1,6 @@
 ## I'm a developer of scripts, bots, websites
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciwie3303&show_icons=true&theme=radical)
 
-
-
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
 ![C#](https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=c#)
